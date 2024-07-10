@@ -7,7 +7,7 @@ Presentasi  :
 https://github.com/alfaza-putra/flutter_UAS_Mobile2/assets/129705943/1ca8eb54-72fa-4544-b9a4-9c197a0440d8
 
 
-# PROJECT FLUTTER [Aplikasi Note]
+# FLUTTER [Aplikasi Note]
 > main.dart
 ```
 import 'package:flutter/material.dart';
